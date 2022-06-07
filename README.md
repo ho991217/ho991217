@@ -4,9 +4,13 @@
 <!--   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ho991217"/> -->
 </p>
 
-<h1 align="center">
-  🧰 테크 스택 🧰
+<h1>
+  안녕하세요, [![wakatime](https://wakatime.com/badge/user/c6d7f260-ad25-4072-a4ea-11cdfc7fdcb9.svg)](https://wakatime.com/@c6d7f260-ad25-4072-a4ea-11cdfc7fdcb9) 시간의 개발자 이호연입니다.
 </h1>
+
+<h2 align="center">
+  🧰 테크 스택 🧰
+</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> &nbsp
