@@ -4,8 +4,9 @@
 <!--   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ho991217"/> -->
 </p>
 
-<h1>
-  안녕하세요, [![wakatime](https://wakatime.com/badge/user/c6d7f260-ad25-4072-a4ea-11cdfc7fdcb9.svg)](https://wakatime.com/@c6d7f260-ad25-4072-a4ea-11cdfc7fdcb9) 시간의 개발자 이호연입니다.
+<h1 align="center">
+  안녕하세요, <img src="https://wakatime.com/badge/user/c6d7f260-ad25-4072-a4ea-11cdfc7fdcb9.svg" />
+  시간의 개발자 이호연입니다.
 </h1>
 
 <h2 align="center">
