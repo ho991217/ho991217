@@ -2,6 +2,8 @@
 
 주니어 프론트엔드 개발자입니다.
 
+[![wakatime](https://wakatime.com/badge/user/c6d7f260-ad25-4072-a4ea-11cdfc7fdcb9.svg)](https://wakatime.com/@c6d7f260-ad25-4072-a4ea-11cdfc7fdcb9)
+
 ## Profile ———
 <img src = "https://user-images.githubusercontent.com/84632077/210915415-76ca1c8b-19d5-42dd-8204-7bf1f49c657f.jpg" height="150px" />
 
