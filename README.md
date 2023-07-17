@@ -3,6 +3,8 @@
 주니어 프론트엔드 개발자입니다.
 [![wakatime](https://wakatime.com/badge/user/c6d7f260-ad25-4072-a4ea-11cdfc7fdcb9.svg)](https://wakatime.com/@c6d7f260-ad25-4072-a4ea-11cdfc7fdcb9)
 
+---
+
 ## Profile ———
 
 <aside>
@@ -29,7 +31,7 @@
 
  📞 Phone | 010-8916-4754
 
- 🐈‍⬛ Github | [https://github.com/ho991217](https://github.com/ho991217)
+ 🐈‍⬛ Github | https://github.com/ho991217
 
 ## Stacks ———
 
@@ -43,6 +45,7 @@
 
 영어는 개발자에게 있어 가장 보편적이면서 중요한 소양이라고 생각합니다.
 무리없이 영어를 읽고 쓰기, 간단한 의사소통을 할 수 있습니다.
+공인영어 TOEIC - 975점
 
 ### JavaScript | TypeScript
 
@@ -52,18 +55,12 @@ JavaScript와 TypeScript를 사용하여 다양한 웹 페이지를 개발 해 �
 ### React JS
 
 JavaScript또는 TypeScript를 사용한 라이브러리인 React JS를 사용할 수 있습니다.
-또한 스타일 라이브러리 Styled Components, 상태관리 라이브러리 Redux와 Recoil 등을 활용하여 빠르게 웹 페이지를 작성할 수 있습니다.
+또한 스타일 라이브러리 Styled Components, 상태관리 라이브러리 Recoil 등을 활용하여 빠르게 웹 페이지를 작성할 수 있습니다.
 
 ### Python
 
 Python 언어를 사용하여 주로 알고리즘 / 자료구조 문제 풀이를 합니다.
 Tensor Flow와 Jupyter Notebook을 사용하여 Data Science에 활용한 경험이 있습니다.
-기초적인 백엔드 개발의 개념을 학습하기 위해 Django를 사용해 본 경험이 있습니다.
-
-### JAVA
-
-OOP의 개념을 학습하기 위해 사용했습니다.
-JAVA를 활용하여 기본적인 알고리즘 문제를 해결할 수 있습니다.
 
 ### Git
 
@@ -74,50 +71,41 @@ Trunk-Based, Gitflow 등의 전략을 활용한 프로젝트 협업 경험이 �
 
 ### 단국대학교 총학생회 웹 페이지
 
-2022.05.24 ~ 2022.09.30
+2022.05.24 ~
 
 [](https://github.com/DKU54PLAY/student-council-homepage-frontend)
 
 - 단국대학교 54대 총학생회 PLAY! 의 홈페이지
     - 총학생회/부회장, PM 1명, 백엔드 3명, 프론트엔드 3명, 디자인 3명
     - 프론트엔드 개발팀 팀장으로 참여
-    - React JS, TypeScript, Styled-Components, Recoil, Axios, git
+    - React JS, TypeScript, Styled-Components, Recoil, Axios, git, github
 
 ### 2022 단국대학교 경소톤
 
 2022.05.25 ~ 2022.08.23
 
-[GitHub - connect-teams/2022-place-to-do: 2022 경소톤 커넥트 팀 place-to-do 프로젝트](https://github.com/connect-teams/2022-place-to-do)
-
-### 2023 단국대학교 캡스톤
-
-2022.03.01 ~ 
-
-[GitHub - connect-teams/2022-place-to-do: 2022 경소톤 커넥트 팀 place-to-do 프로젝트](https://github.com/connect-teams/2022-place-to-do)
-
-### 2023 한이음 공모전
-
-2022.03.01 ~ 
-
-[GitHub - connect-teams/2022-place-to-do: 2022 경소톤 커넥트 팀 place-to-do 프로젝트](https://github.com/connect-teams/2022-place-to-do)
-
 - 위치기반 투두/메모 앱
     - 우수상 (3등)
     - 기획 2명, PM 1명, 프론트엔드 1명, 백엔드 1명
     - 프론트엔드 개발로 참여
-    - React, TypeScript, Progressive Web App, aws, git
+    - React, TypeScript, Progressive Web App, aws, git, github
+
+### 2023 단국대학교 캡스톤
+
+2022.03.01 ~ 2022.11.01
 
 - 옷 가게 키오스크 서비스
-    - 
+    - 가상피팅을 지원하는 옷가게 키오스크 서비스
     - ML엔지니어 2명, Unity 1명, 풀스택 1명
-    - 웹 풀스택 개발로 참여
-    - React.js, TypeScript, Node.js, Nest.js, git
+    - 웹 백엔드로 참여
+    - Node.js, Nest.js, mongodb, git, github
+
+### 2023 한이음 공모전
+
+2022.03.01 ~ 
     
 - 유기견 방지 인증 브리더
-    - 
-    - 
-    - 웹 풀스택 개발로 참여
-    - React.js, TypeScript, Node.js, Nest.js, git
+    - React.js, TypeScript, Node.js, Nest.js, git,  gitlab
     
 
 ## Activity ———
@@ -144,15 +132,10 @@ Trunk-Based, Gitflow 등의 전략을 활용한 프로젝트 협업 경험이 �
 
 멘토
 
-- 리액트 기초반
-    - 작성중
-    
+[D Coding](https://www.notion.so/D-Coding-658b3b5ccd66472aaae83b0748eb96b1?pvs=21) 
 
-멘티
-
-- 리액트 프레임워크 만들기
-    - 작성중
-    
+- 프론트엔드 심화
+    - 교수자와 학습자로 나뉘어 학습하는 스터디
 
 ---
 
@@ -175,16 +158,6 @@ Trunk-Based, Gitflow 등의 전략을 활용한 프로젝트 협업 경험이 �
     - 강사로 참여하여 원서 교재를 참고하여 온라인 녹화 강의를 구성, 촬영 및 편집 하였습니다.
     
 
-**Croar Creative - Project6**
-
-웹 디자인, 개발 서비스 — [https://pr6.kr](https://pr6.kr)
-
-웹 풀스택 개발
-
-- 리액트
-    - 작성중
-    
-
 ---
 
 ### 단국대학교 총학생회
@@ -193,26 +166,23 @@ Trunk-Based, Gitflow 등의 전략을 활용한 프로젝트 협업 경험이 �
 
 개발국장
 
-[https://www.dku54play.com](https://www.dku54play.com) (도메인 만료)
+https://www.dku54play.com (도메인 만료)
 
 - 프론트엔드 개발
     - 총학생회 홈페이지 신규 개발 프로젝트
     - 코드 리뷰 및 이슈 할당, 코드 작성 등의 역할을 하였습니다.
 
-- 유지보수
-    - 작성중
-    
-
 **단국대학교 55대 담다 총학생회 IT 개발국**
 
-개발국장
-[https://www.dkustu.com](https://www.dkustu.com) 
+프론트엔드 총괄
+https://www.dkustu.com 
 
 - 학생회 홈페이지 프론트엔드 개발
-    - 작성중
-    
-- 유지보수
-    - 작성중
-    
+    - 전 학생회 디자인에서 현 학생회 theme으로 리뉴얼 하는 작업
+    - 코드 리팩토링 및 코드리뷰를 맡았습니다.
+- 단국대학교 축제 온라인 티켓팅 및 모바일 티켓
+    - https://danfesta.dkustu.com
+    - 약 2주간의 비교적 짧은 기간의 프로젝트
+    - 빠른 구현을 위해 반응형 구현 등을 생략
 
 ---
