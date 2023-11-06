@@ -27,7 +27,7 @@
 
 ## Contact Info ———
 
- 📬 Email | ho991217@kakao.com
+ 📬 Email | <a mailto="ho991217@kakao.com">ho991217@kakao.com</a>
 
  📞 Phone | 010-8916-4754
 
