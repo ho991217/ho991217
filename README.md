@@ -10,12 +10,6 @@
 
 <div align=center>
 
-# History
-
-<div align=left>
-
-- 당근 2024 ~
-
 <div align=center>
 
 # Stats
