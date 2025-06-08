@@ -2,7 +2,8 @@
 I'm Ho Yeon Lee, a junior frontend developer based in Seoul, Korea.
 
 ### 💼 I've worked in...
-- **당근 (Daangn)**: 11/08/2025 - now
+- **당근 (Daangn)**: 11/08/2024 - 26/06/2025
+- **토스 (toss)**: 01/07/2025 - now
 
 ### 🌱 I've contributed to...
 
