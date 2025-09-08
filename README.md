@@ -5,10 +5,6 @@ I'm Ho Yeon Lee, a junior frontend developer based in Seoul, Korea.
 - **당근 (Daangn)**: 11/08/2024 - 26/06/2025
 - **토스 (toss)**: 01/07/2025 - now
 
-### 🔧 I'm maintainer of...
-
-- [@daangn/graplix](https://github.com/daangn/graplix)
-
 ### 🌱 I've contributed to...
 
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
